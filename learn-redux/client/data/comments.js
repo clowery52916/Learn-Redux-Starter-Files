@@ -1,22 +1,22 @@
 const comments = {
-  "BAhvZrRwcfu":[
+  'BAhvZrRwcfu':[
     {
-      "text":"Totally need to try this.",
-      "user": "heavymetaladam"
+      'text':'Totally need to try this.',
+      'user': 'heavymetaladam'
     }
   ],
-  "BAcyDyQwcXX":[
+  'BAcyDyQwcXX':[
     {
-      "text":"Wes. WE should have lunch.",
-      "user": "jdaveknox"
+      'text':'Wes. WE should have lunch.',
+      'user': 'jdaveknox'
     },
     {
-      "text":"#adults",
-      "user": "jdaveknox"
+      'text':'#adults',
+      'user': 'jdaveknox'
     },
     {
-      "text":"@jdaveknox yes!",
-      "user": "wesbos"
+      'text':'@jdaveknox yes!',
+      'user': 'wesbos'
     },
     {
       "text":"😍 love Hamilton!",
@@ -170,7 +170,7 @@ const comments = {
       "user": "lucascaixeta"
     }
   ],
-  "1rhFawccs":[
+  '1rhFawccs':[
     {
       "text":"What's your lighting source?",
       "user": "seth_mcleod"
@@ -184,26 +184,26 @@ const comments = {
       "user": "stolinski"
     }
   ],
-  "pjx-gQcVi":[
+  'pjx-gQcVi':[
 
   ],
-  "oTZ0zQcWt":[
+  'oTZ0zQcWt':[
     {
-      "text":"Love the coat! Where's it from? Lol",
-      "user": "_lindersss"
+      'text':'Love the coat! Where\'s it from? Lol',
+      'user': '_lindersss'
     }
   ],
-  "mxKQoQcQh":[
+  'mxKQoQcQh':[
 
   ],
-  "hZh6IQcfN":[
+  'hZh6IQcfN':[
     {
-      "text":"What do we gotta do to get some :)? @wesbos",
-      "user": "jonasbad"
+      'text':'What do we gotta do to get some :)? @wesbos',
+      'user': 'jonasbad'
     },
     {
-      "text":"Might drop by today - real quick. Trade you an illegal pin for these? Lol. @wesbos",
-      "user": "henrihelvetica"
+      'text':'Might drop by today - real quick. Trade you an illegal pin for these? Lol. @wesbos',
+      'user': 'henrihelvetica'
     },
     {
       "text":"I'm with @jonasbad on this. What we gotta do? :D",
@@ -215,11 +215,11 @@ const comments = {
     },
     {
       "text":"Want",
-      "user": "kamuelafranco"
+      "user": 'kamuelafranco'
     },
     {
-      "text":"want!",
-      "user": "josemanuelxyz"
+      'text':'want!',
+      "user": 'josemanuelxyz'
     },
     {
       "text":"#Top",
@@ -246,56 +246,56 @@ const comments = {
       "user": "tomwalsham"
     },
     {
-      "text":"Is that from collective arts ?",
-      "user": "trevorb_91"
+      'text':'Is that from collective arts ?',
+      'user': 'trevorb_91'
     }
   ],
-  "FpTyHQcau":[
+  'FpTyHQcau':[
     {
-      "text":"@kaitbos  that vest!!! 😍",
-      "user": "courtneyeveline"
+      'text':'@kaitbos  that vest!!! 😍',
+      'user': 'courtneyeveline'
     },
     {
-      "text":"I just love her! @kaitbos",
-      "user": "kalibrix"
+      'text':'I just love her! @kaitbos',
+      'user': 'kalibrix'
     },
     {
-      "text":"@courtneyeveline I know! My friend gave it to her and I wanted a matching one but only Lux can pull it off. She's so fancy 😉",
-      "user": "kaitbos"
+      'text':'@courtneyeveline I know! My friend gave it to her and I wanted a matching one but only Lux can pull it off. She\'s so fancy 😉',
+      'user': 'kaitbos'
     },
     {
-      "text":"Char has that vest!!! Super cute!",
-      "user": "jennlensink"
+      'text':'Char has that vest!!! Super cute!',
+      'user': 'jennlensink'
     },
     {
-      "text":"You'll have to meet her soon @kalibrix!!",
-      "user": "kaitbos"
+      'text':'You\'ll have to meet her soon @kalibrix!!',
+      'user': 'kaitbos'
     },
     {
-      "text":"Haha @kaitbos so true, babies these days are sooo stylish. 😎",
-      "user": "courtneyeveline"
+      'text':'Haha @kaitbos so true, babies these days are sooo stylish. 😎',
+      'user': 'courtneyeveline'
     },
     {
-      "text":"JavaScript 😄😆🙋",
-      "user": "lucascaixeta"
+      'text':'JavaScript 😄😆🙋',
+      'user': 'lucascaixeta'
     },
     {
-      "text":"That hoodie is amazing! Where did you get it?",
-      "user": "br11x"
+      'text':'That hoodie is amazing! Where did you get it?',
+      'user': 'br11x'
     },
     {
-      "text":"@br11x I did a teespring a few months ago - maybe I'll do another one soon",
-      "user": "wesbos"
+      'text':'@br11x I did a teespring a few months ago - maybe I\'ll do another one soon',
+      'user': 'wesbos'
     }
   ],
-  "B3eiIwcYV":[
+  'B3eiIwcYV':[
     {
-      "text":"If you get in the mood for authentic Italian pizza, check out @backspaceaustin - it's👌🏻",
-      "user": "dessie.ann"
+      'text':'If you get in the mood for authentic Italian pizza, check out @backspaceaustin - it\'s👌🏻',
+      'user': 'dessie.ann'
     },
     {
-      "text":"😱 jealous",
-      "user": "jenngbrewer"
+      'text':'😱 jealous',
+      'user': 'jenngbrewer'
     }
   ]
 };
